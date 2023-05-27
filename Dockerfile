@@ -1,1 +1,1 @@
-FROM wordpress:6.1.1
+FROM httpd:2.4.57
