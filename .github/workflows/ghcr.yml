@@ -1,6 +1,7 @@
 name: Publish Docker Image to ghcr
 
 on:
+  push:
   release:
     types: [published]
 
